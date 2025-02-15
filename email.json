@@ -1,0 +1,6 @@
+{
+    "email_address": "sender_email@gmail.com",
+    "receiver_emails": ["receiver_email_1_@gmail.com","receiver_email_2_@gmail.com","receiver_email_3_@gmail.com"   ],
+    "email_password": "" // for email password use google app password
+}
+  
