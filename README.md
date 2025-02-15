@@ -44,17 +44,8 @@ This project is a cloud storage monitoring and backup automation system. It cont
 
 1. Run the main script:
    ```sh
-   python monitor_storage.py
+   python cloud_backup.py
    ```
-2. To enable auto-upload monitoring, execute:
-   ```sh
-   python auto_upload_monitoring_backup_to_main.py
-   ```
-3. To continuously monitor storage and run parallel backups every 10 minutes:
-   ```sh
-   python main_to_backup_10m.py
-   ```
-
 ## Configuration
 
 Modify the configuration settings in `config.py`:
@@ -65,7 +56,7 @@ Modify the configuration settings in `config.py`:
 
 ## Logging
 
-All events and errors are logged for auditing. Logs are stored in `logs/monitor.log`.
+All events and errors are logged for auditing. Logs are stored in `monitor.log`.
 
 ## Error Handling
 
