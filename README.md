@@ -81,10 +81,10 @@ All events and errors are logged for auditing. Logs are stored in `logs/monitor.
 
 ## Authors
 This project was developed by:
-- A V Mahesh (CAN ID: CAN_33512660)
-- Manoj V (CAN ID: CAN_33501524)
-- Rohan T Y (CAN ID: CAN_33513307)
-- Abhishek G (CAN ID: CAN_33518336)
+- A V Mahesh 
+- Manoj V 
+- Rohan T Y 
+- Abhishek G
 
 ## License
 
